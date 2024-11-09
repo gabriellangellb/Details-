@@ -1,5 +1,5 @@
 ///code from chatgpt///
-let score = 5;
+let score = 52;
 let grade = Math.floor(score / 10);
 
 switch (grade) {
